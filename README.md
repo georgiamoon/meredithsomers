@@ -1,3 +1,3 @@
-# meredithsomers
+# meredith somers website
 
-testing if this edits the side.
+url: masomers.github.io/meredithsomers
