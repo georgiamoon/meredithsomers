@@ -1,3 +1,6 @@
-Don't touch anything with "config" or an underscore
+Don't touch anything with "config" or an underscore --> or ask for help.
 Commit = save
 .md = markdown file which is like .doc file or .ppt is a powerpoint
+
+
+Source repo for the theme: https://github.com/pages-themes/minimal
