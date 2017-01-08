@@ -1,1 +1,3 @@
 Don't touch anything with "config" or an underscore
+Commit = save
+.md = markdown file which is like .doc file or .ppt is a powerpoint
