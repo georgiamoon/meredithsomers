@@ -1,3 +1,8 @@
+# Meredith Somers
+- Github
+- Twitter
+- Instagram
+
 ## Meredith Somers -- Journalist
 
 You can read some of my [articles](writing.md) to see how amazing of a writer I am.
