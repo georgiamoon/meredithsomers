@@ -9,7 +9,7 @@ I've got a decade of experience as a general assignment and investigative report
 
 ```
 
-"Somers is gutsy in the start of her story ..." - Maryland-Delaware-D.C. Press Association 
+"Somers is gutsy in the start of her story ..." - MDDC-Press Association 
 "Even the New York Times has cub reporters!" - my dad
 
 ```
