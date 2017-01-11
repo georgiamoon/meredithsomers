@@ -19,4 +19,4 @@ I've got a decade of experience as a general assignment and investigative report
 
 ### Call me, maybe?
 
-You can [email](mailto:masomers@gmail.com) me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en). If you like pictures taken in mirrored elevators and overhead beverage shots, then my [Instagram](https://www.instagram.com/meredithsomers/) might be worth a scroll.
+You can [email](mailto:masomers@gmail.com) me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en). If you like pictures taken in mirrored elevators and overhead beverage pictures, then my [Instagram](https://www.instagram.com/meredithsomers/) might be worth a scroll.
