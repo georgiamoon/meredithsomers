@@ -12,16 +12,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 "Somers is gutsy in the start of her story ..." - Maryland-Delaware-D.C. Press Association 
 "Even the New York Times has cub reporters!" - my dad
 
-
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/georgiamoon/meredithtest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
 ### Call me, maybe?
 
-You can [email](mailto:masomers@gmail.com)me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en). If you like pictures taken in mirrored elevators and overhead beverage shots, then my [Instagram](https://www.instagram.com/meredithsomers/) might be worth a scroll.
+You can [email](mailto:masomers@gmail.com) me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en). If you like pictures taken in mirrored elevators and overhead beverage shots, then my [Instagram](https://www.instagram.com/meredithsomers/) might be worth a scroll.
