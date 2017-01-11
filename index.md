@@ -9,15 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```
 
-# _"Somers is gutsy in the start of her story ..." - Maryland-Delaware-D.C. Press Association 
-### _"Even the New York Times has cub reporters!" - my dad
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+"Somers is gutsy in the start of her story ..." - Maryland-Delaware-D.C. Press Association 
+"Even the New York Times has cub reporters!" - my dad
 
 
 ```
