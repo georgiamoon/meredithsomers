@@ -44,4 +44,4 @@ Earned an honorable mention from Suburban Newspapers of America for continuing c
 
 ### Education
 
-Quinnipiac University, print journalism
+Quinnipiac University
