@@ -41,3 +41,7 @@ Broke stories on the fight between the Charles County Commission and environment
 Balanced a local government beat for the historic city of Worthington, Ohio, and a school beat for the growing New Albany School District.
 
 Earned an honorable mention from Suburban Newspapers of America for continuing coverage of a high school cheerleader shot in the head by a local hermit. 
+
+### Education
+
+Quinnipiac University, print journalism
