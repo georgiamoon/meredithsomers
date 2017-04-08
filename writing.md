@@ -1,3 +1,8 @@
+---
+title: Writing
+date: 2017-02-13 16:34:00 Z
+---
+
 ## Storytelling is my favorite
 
 * [For every resident of this small Virginia town, there's been an aftershock](http://www.washingtontimes.com/news/2012/aug/22/a-year-after-earthquake-the-shocks-linger-in-va-to/)
