@@ -1,4 +1,13 @@
-theme: jekyll-theme-minimal
+---
 title: Meredith Somers
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-minimal
 description: reporter. rower. gossip enthusiast.
 show_downloads: false
