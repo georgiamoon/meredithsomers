@@ -3,6 +3,7 @@ title: Home
 date: 2017-02-13 16:34:00 Z
 ---
 
+### Reporter
 I've got a decade of experience as a general assignment and investigative reporter. I've covered local, state and federal governments, environmental affairs, education, and all manner of enterprise stories. You can read some of my [favorite](writing.md) pieces to get an idea of what kind of writer I am.
 
 ### Feedback
