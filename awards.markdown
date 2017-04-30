@@ -3,8 +3,7 @@ title: Awards
 date: 2017-04-30 19:39:00 Z
 ---
 
-# \*\*Awards and Recognition
-\*\*
+# Awards and Recognition
 
 **Society of Professional Journalists, 2012 and 2013 Dateline awards**
 
