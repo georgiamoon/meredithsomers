@@ -3,10 +3,16 @@ title: Home
 date: 2017-02-13 16:34:00 Z
 ---
 
-### Work
+I am a Swiss Army Knife writer; deep-dive investigator, bureaucratic  translator, spot news observer, feature storyteller. 
 
-I've got a decade of experience as a general assignment and investigative reporter. I've covered local, state and federal governments, environmental affairs, education, and all manner of enterprise stories. You can read some of my [favorite](writing.md) pieces to get an idea of what kind of writer I am. I've also earned a variety of [awards](http://meredithsomers.com/awards.html) for stories on government transparency and accountability, and breaking news.
+Writing is the greatest job in the world, and I'll take every chance I get to take advantage of this line of work. I go on daily adventures to meet new people and explore new places. I get access to areas where no one else is allowed. I pick the brains of academics, question politicians, and shake hands with luminaries. I collect secrets. I'm given a pass when I ask probing questions. I'm a confidant, witness, and a vital organ of a system.
+
+My favorite [stories](http://http://meredithsomers.com/writing.html) are the ones I know had a direct impact on someone.
+
+I've also earned a variety of [awards](http://meredithsomers.com/awards.html) for stories on government transparency and accountability, and breaking news.
+
+I consider myself a member of the "traditional journalist" club. I write to put trust back into the relationship between the media and public, and I want to empower people to tell their stories in an honest and productive way. 
 
 ### Contact me
 
-You can [email](mailto:masomers@gmail.com) me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en). If you like mirrored elevators and overhead views of beverages, then my [Instagram](https://www.instagram.com/meredithsomers/) might be worth a scroll.
+You can [email](mailto:masomers@gmail.com) me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en).
