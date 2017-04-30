@@ -25,7 +25,7 @@ Spearheaded series on the four-month Occupy D.C. movement, from its humble begin
 
 Enterprise human interest stories in the D.C. area, including a behind-the-scenes profile on [Customs and Border Protection](http://m.washingtontimes.com/news/2012/may/17/customs-not-playing-hide-and-seek-with-carry-on-co/) at the Dulles International Airport, and local lady arm wrestlers fighting domestic violence.
 
-### Maryland Independent (March 2009 - March 2011)
+### [Maryland Independent (March 2009 - March 2011)](http://www.somdnews.com/search/?l=25&sd=desc&s=start_time&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&q=Meredith\+Somers&nsa=eedition)
 
 County commission reporter for a bi-weekly newspaper in Southern Maryland.
 
