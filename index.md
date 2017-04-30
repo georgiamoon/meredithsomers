@@ -5,7 +5,7 @@ date: 2017-02-13 16:34:00 Z
 
 ### Work
 
-I've got a decade of experience as a general assignment and investigative reporter. I've covered local, state and federal governments, environmental affairs, education, and all manner of enterprise stories. You can read some of my [favorite](writing.md) pieces to get an idea of what kind of writer I am. I've also earned a variety of [awards] for stories on government accountability, Freedom of Information, and breaking news.
+I've got a decade of experience as a general assignment and investigative reporter. I've covered local, state and federal governments, environmental affairs, education, and all manner of enterprise stories. You can read some of my [favorite](writing.md) pieces to get an idea of what kind of writer I am. I've also earned a variety of \[[awards](http://meredithsomers.com/awards.html)\] for stories on government accountability, Freedom of Information, and breaking news.
 
 ### Feedback
 
