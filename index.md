@@ -11,7 +11,7 @@ My favorite [stories](writing.html) are the ones I know had a direct impact on s
 
 My work has earned a variety of [awards](awards.html) for stories on government transparency and accountability, and breaking news.
 
-I consider myself a member of the "traditional journalist" club. I write to put trust back into the relationship between the media and public, and I want to empower people to tell their stories in an honest and productive way.
+I write to put trust back into the relationship between the media and public, and I want to empower people to tell their stories in an honest and productive way.
 
 ### Contact me
 
