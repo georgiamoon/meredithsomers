@@ -2,6 +2,12 @@
 title: Resume
 date: 2017-02-13 16:34:00 Z
 ---
+### [MIT Sloan Office of Communications (January 2018 - present)](http://mitsloan.mit.edu/search-results/?cx=006060196262724722479:ioyiuv1df-c&cof=FORID:11&q=Meredith%20somers)
+Reports on faculty research including study on [age and entrepreneurship](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/) that became most read article in Sloan website’s history. 
+
+Connects institution expert insight with external news and trends, such as examination of [Kate Spade’s](http://mitsloan.mit.edu/newsroom/articles/what-made-kate-spade-a-great-entrepreneur/) entrepreneurial legacy, and review of [L.L. Bean’s](http://mitsloan.mit.edu/newsroom/articles/ending-ll-bean-lifetime-return-policy-not-a-fatal-marketing-move/) renowned return policy. 
+
+Leads editorial team collaboration on projects like [infographic](http://mitsloan.mit.edu/newsroom/articles/infographic-how-to-conference/) on conference how-to, and [sick leave policy](http://mitsloan.mit.edu/newsroom/articles/use-this-flowchart-to-promote-a-healthy-sick-leave-policy/) flowchart.
 
 ### [Federal News Radio (August 2015 - December 2017)](https://federalnewsradio.com/author/meredith-somers/)
 
