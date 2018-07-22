@@ -2,6 +2,7 @@
 title: Resume
 date: 2017-02-13 16:34:00 Z
 ---
+
 ### [MIT Sloan Office of Communications (January 2018 - present)](http://mitsloan.mit.edu/search-results/?cx=006060196262724722479:ioyiuv1df-c&cof=FORID:11&q=Meredith%20somers)
 Reports on faculty research including study on [age and entrepreneurship](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/) that became most read article in Sloan website’s history. 
 
