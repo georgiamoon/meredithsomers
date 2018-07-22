@@ -3,7 +3,7 @@ title: Resume
 date: 2017-02-13 16:34:00 Z
 ---
 
-### [Federal News Radio (August 2015 - present)](https://federalnewsradio.com/author/meredith-somers/)
+### [Federal News Radio (August 2015 - December 2017)](https://federalnewsradio.com/author/meredith-somers/)
 
 Versatile reporter covering people, programs and policies of the federal government. Continuing coverage includes agency oversight, cybersecurity, and freedom of information. Enterprise stories range from [artificial intelligence](https://federalnewsradio.com/ai-the-reality-in-your-office/) to cancer research.
 
