@@ -4,6 +4,9 @@ date: 2017-02-13 16:34:00 Z
 ---
 
 ## Storytelling is my favorite
+* [The 20-year-old entrepreneur is a lie](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/)
+
+* [Thinking like a shark](http://mitsloan.mit.edu/newsroom/articles/a-guide-to-intrapreneurship/)
 
 * [For every resident of this small Virginia town, there's been an aftershock](http://www.washingtontimes.com/news/2012/aug/22/a-year-after-earthquake-the-shocks-linger-in-va-to/)
 
@@ -16,9 +19,3 @@ date: 2017-02-13 16:34:00 Z
 * [Less than 5% of adults with cancer will enroll in a clinical trial](http://federalnewsradio.com/technology/2016/12/national-cancer-institute-uses-api-connect-patients-clinical-trials/)
 
 * [The One Buttcheek Rule](http://www.washingtontimes.com/news/2011/oct/16/lady-arm-wrestlers-clash-for-charity-cash/)
-
-* [Occupy D.C. started on a park bench](http://www.washingtontimes.com/news/2011/oct/5/occupy-dc-takes-up-wall-street-protesters-cause/)
-
-* [... then the rats came](http://www.washingtontimes.com/news/2012/feb/4/police-raid-occupy-dc-camp/)
-
-* [That time I was thisclose to the First Lady](http://www.salon.com/2015/04/17/michelle_obama_jill_biden_visit_maryland_veterans_center/)
