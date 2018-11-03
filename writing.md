@@ -10,7 +10,7 @@ date: 2017-02-13 16:34:00 Z
 
 * [For every resident of this small Virginia town, there's been an aftershock](http://www.washingtontimes.com/news/2012/aug/22/a-year-after-earthquake-the-shocks-linger-in-va-to/)
 
-* [How does the National Zoo's Bamboo Procurement Team find enough bamboo to feed three adult pandas?](http://www.washingtontimes.com/news/2013/nov/28/the-art-of-bamboo-for-pandas-at-the-national-zoo/)
+* [Finding bamboo in an urban jungle](http://www.washingtontimes.com/news/2013/nov/28/the-art-of-bamboo-for-pandas-at-the-national-zoo/)
 
 * [What does it take to dismantle a federal agency?](https://federalnewsradio.com/management/2017/02/eliminating-epa-can-done-regret/)
 
