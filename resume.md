@@ -6,7 +6,7 @@ date: 2017-02-13 16:34:00 Z
 ### [MIT Sloan School of Management — Office of Communications (January 2018 - present)](http://mitsloan.mit.edu/search-results/?cx=006060196262724722479:ioyiuv1df-c&cof=FORID:11&q=Meredith%20somers)
 Reports on faculty research including study on [age and entrepreneurship](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/) that became most read article in Sloan website’s history.
 
-Connects institution expert insight with external news and trends, such as examination of [Kate Spade’s](http://mitsloan.mit.edu/newsroom/articles/what-made-kate-spade-a-great-entrepreneur/) entrepreneurial legacy, and review of [L.L. Bean’s](http://mitsloan.mit.edu/newsroom/articles/ending-ll-bean-lifetime-return-policy-not-a-fatal-marketing-move/) renowned return policy. 
+Connects institution expert insight with external news and trends, such as analysis of Nike's decision to partner with [Colin Kaepernick](http://mitsloan.mit.edu/newsroom/articles/in-kaepernick-ads-nike-further-develops-its-brand-point-of-view/), an examination of [Kate Spade’s](http://mitsloan.mit.edu/newsroom/articles/what-made-kate-spade-a-great-entrepreneur/) entrepreneurial legacy, and review of [L.L. Bean’s](http://mitsloan.mit.edu/newsroom/articles/ending-ll-bean-lifetime-return-policy-not-a-fatal-marketing-move/) renowned return policy. 
 
 Leads editorial team collaboration on projects like [infographic](http://mitsloan.mit.edu/newsroom/articles/infographic-how-to-conference/) on conference how-to, and [sick leave policy](http://mitsloan.mit.edu/newsroom/articles/use-this-flowchart-to-promote-a-healthy-sick-leave-policy/) flowchart.
 
@@ -18,9 +18,9 @@ Creative producer for bi-weekly radio broadcasts, which include conversations wi
 
 ### The Associated Press (January 2015 - April 2015)
 
-Legislative reporter covering the Maryland General Assembly. Responsible for following a variety of issues ranging from [transparency](http://www.baltimoresun.com/news/maryland/politics/blog/md-xgr--public-information-access-20150211-story.html) in government to [environmental](http://newsok.com/advocates-critics-of-fracking-turn-out-for-hearing-on-bills/article/feed/805748) affairs.
+Legislative reporter covering the Maryland General Assembly. Responsible for following a variety of issues ranging from [transparency](http://www.baltimoresun.com/news/maryland/politics/blog/md-xgr--public-information-access-20150211-story.html) in government to environmental affairs.
 
-Teamed with AP Washington bureau on breaking national news including shooting incidents at the [National Security Agency](http://www.salon.com/2015/03/31/questions_remain_in_officer_involved_shooting_at_nsa/).
+Teamed with AP Washington bureau on breaking national news including shooting incidents at the [National Security Agency](https://www.wvgazettemail.com/news/questions-remain-in-officer-involved-shooting-at-nsa/article_6fdfd708-1a8e-5d55-a105-5bd29ba2298b.html).
 
 ### [The Washington Times (March 2011 - November 2014)](http://www.washingtontimes.com/staff/meredith-somers/)
 
