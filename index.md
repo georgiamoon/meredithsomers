@@ -5,13 +5,12 @@ date: 2017-02-13 16:34:00 Z
 
 I am a Swiss Army Knife writer; deep-dive investigator, academic and bureaucratic  translator, spot news observer, feature storyteller.
 
-Writing is the greatest [job](resume.html) in the world, and I'll take every chance I get to take advantage of it. I go on adventures to meet new people and explore new places. I get access to areas where no one else is allowed. I pick the brains of academics, question politicians, and shake hands with luminaries. I collect secrets. I'm given a pass to ask probing questions. I'm a confidant, witness, and a vital organ of a system.
+All stories need to be told, and some of my favorite [stories](writing.html) are the ones I know had a direct impact on someone.
 
-My favorite [stories](writing.html) are the ones I know had a direct impact on someone.
+My work has earned a variety of [awards](awards.html) for reporting on government transparency and accountability, and breaking news. I believe deep down that if people know what is going on, if they understand how policies and events affect people and communities, they will make better decisions individually and collectively. 
 
-My work has earned a variety of [awards](awards.html) for stories on government transparency and accountability, and breaking news.
+I [write](resume.html) to empower people to tell their stories in an understandable and productive way.
 
-I write to put trust back into the relationship between the media and public, and I want to empower people to tell their stories in an honest and productive way.
 
 ### Contact me
 
