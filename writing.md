@@ -3,7 +3,7 @@ title: Writing
 date: 2017-02-13 16:34:00 Z
 ---
 
-## A few of my favorite stories
+## Storytelling
 * [The 20-year-old entrepreneur is a lie](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/)
 
 * [Taking the high road](http://mitsloan.mit.edu/ideas-made-to-matter/high-road-approach-to-worker-compensation)
