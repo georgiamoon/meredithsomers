@@ -3,7 +3,7 @@ title: Resume
 date: 2017-02-13 16:34:00 Z
 ---
 
-### [MIT Sloan School of Management — Office of Communications (January 2018 - present)](https://mitsloan.mit.edu/ideas-made-to-matters)
+### [MIT Sloan School of Management — Office of Communications (January 2018 - present)](http://mitsloan.mit.edu/ideas-made-to-matter)
 Reports on faculty research including study on [age and entrepreneurship](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/) that became most read article in Sloan website’s history.
 
 Connects institution expert insight with external news and trends, such as analysis of Nike's decision to partner with [Colin Kaepernick](http://mitsloan.mit.edu/newsroom/articles/in-kaepernick-ads-nike-further-develops-its-brand-point-of-view/), explaining the success of Butterball's [Turkey Talk Line](http://mitsloan.mit.edu/ideas-made-to-matter/enduring-business-case-butterball-turkey-talk-line), and a review of [L.L. Bean’s](http://mitsloan.mit.edu/newsroom/articles/ending-ll-bean-lifetime-return-policy-not-a-fatal-marketing-move/) renowned return policy. 
