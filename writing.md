@@ -6,7 +6,7 @@ date: 2017-02-13 16:34:00 Z
 ## Storytelling is my favorite
 * [The 20-year-old entrepreneur is a lie](http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/)
 
-* [Thinking like a shark](http://mitsloan.mit.edu/newsroom/articles/a-guide-to-intrapreneurship/)
+* [Taking the high road](http://mitsloan.mit.edu/ideas-made-to-matter/high-road-approach-to-worker-compensation)
 
 * [For every resident of this small Virginia town, there's been an aftershock](http://www.washingtontimes.com/news/2012/aug/22/a-year-after-earthquake-the-shocks-linger-in-va-to/)
 
