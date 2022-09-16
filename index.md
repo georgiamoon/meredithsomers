@@ -3,13 +3,13 @@ title: Home
 date: 2017-02-13 16:34:00 Z
 ---
 
-I am a Swiss Army Knife writer; a deep-dive investigator, academic and bureaucratic  translator, spot news observer, and feature storyteller.
+I am a news writer for the MIT Sloan School of Management and I cover behavioral science and organizational culture, telling the stories of people and their behaviors within the walls of an organization.
 
-My work has earned a variety of [awards](awards.html) for reporting on government transparency and accountability, and breaking news. Some of my favorite [stories](writing.html) are the ones I know had a direct impact on someone. I believe if people know about and understand the policies and events affecting their lives and communities, they will make better decisions individually and collectively. 
+I won a 2011 James S. Keat Freedom of Information Award for my coverage of a county commission's closed door budget decisions, and back-to-back Society of Professional Journalists awards for spot news on the 2012 East Coast earthquake and 2013 Navy Yard mass shooting. 
 
-I [write](resume.html) to empower people to tell their stories in an understandable and productive way.
+I unapologietically love headline puns, I think the Oxford comma is unnecessary, and my dad still calls me a cub reporter.
 
 
 ### Contact me
 
-You can [email](mailto:masomers@gmail.com) me or find me on [Twitter](https://twitter.com/meredithsomers?lang=en).
+[Email](mailto:masomers@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/meredith-somers-1665136/).
