@@ -3,7 +3,7 @@ title: Writing
 date: 2017-02-13 16:34:00 Z
 ---
 
-## Some of my favorite stories
+
 
 * [Deep fakes, explained](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained)
 
