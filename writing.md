@@ -4,7 +4,6 @@ date: 2017-02-13 16:34:00 Z
 ---
 
 
-
 * [Deep fakes, explained](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained)
 
 * [A cultural clue to why East Asians are kept from US C-suites](https://mitsloan.mit.edu/ideas-made-to-matter/a-cultural-clue-to-why-east-asians-are-kept-us-c-suites)
