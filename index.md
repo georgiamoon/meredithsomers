@@ -9,4 +9,4 @@ I won a 2011 James S. Keat Freedom of Information Award for my coverage of a cou
 
 I unapologietically love headline puns, I think the Oxford comma is unnecessary, and my dad still calls me a cub reporter.
 
-Here is my [resume](resume.html) and some of my [best work](writing.html). You can contact me through [email](mailto:masomers@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/meredith-somers-1665136/).
+Here is my [resume](resume.md) and some of my [best work](writing.md). You can contact me through [email](mailto:masomers@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/meredith-somers-1665136/).
