@@ -6,7 +6,7 @@ date: 2017-02-13 16:34:00 Z
 ### [MIT Sloan School of Management — Office of Communications (January 2018 - present)](https://mitsloan.mit.edu/ideas-made-to-matter/meredith-somers)
 News writer for the Ideas Made to Matter editorial team. My beat covers behavioral science and organizational culture, and innovation and entrepreneurship. I created the women's leadership series [The Bias Cut](https://mitsloan.mit.edu/ideas-made-to-matter/topics/bias-cut), and I manage the editorial team's bi-weekly Working Definitions Instagram series.
 
-### [Federal News Radio (August 2015 - December 2017)](https://federalnewsradio.com/author/meredith-somers/)
+### [Federal News Network (August 2015 - December 2017)](https://federalnewsradio.com/author/meredith-somers/)
 Reporter covering the people, policies and programs of the federal government. Continuing coverage included agency oversight, cybersecurity, and freedom of information. 
 
 ### The Associated Press (January 2015 - April 2015)
