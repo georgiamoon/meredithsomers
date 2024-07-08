@@ -9,7 +9,7 @@ date: 2017-02-13 16:34:00 Z
 
 * [Altering gendered language in job postings doesn't help attract more women](https://mitsloan.mit.edu/ideas-made-to-matter/altering-gendered-language-job-postings-doesnt-help-attract-more-women)
 
-* [Deep fakes, explained](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained)
+* [Deepfakes, explained](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained)
 
 * [What does it take to dismantle a federal agency?](https://federalnewsradio.com/management/2017/02/eliminating-epa-can-done-regret/)
 
